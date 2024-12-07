@@ -27,4 +27,6 @@ This project analyzes and visualizes the financial performance of a retail busin
 ---
 
 ## Project Snips:
-![Financial Dashboard Screenshot](path-to-your-financial-dashboard-image)
+
+![Screenshot (74)](https://github.com/user-attachments/assets/97165311-1777-4f02-bcbd-08f448c015d7)
+
